@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+# Aviso
+Os arquivos foram alterados para serem utilizáveis no .Net Core 8.0.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
